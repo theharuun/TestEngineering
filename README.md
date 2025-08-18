@@ -9,3 +9,5 @@
 3. [Test Teknikleri – White Box & Black Box, Coverage ve Test Tasarım Yöntemleri](https://github.com/theharuun/TestEngineering/blob/main/3-%20Test%20Teknikleri%20–%20White%20Box%20&%20Black%20Box,%20Coverage%20ve%20Test%20Tasarım%20Yöntemleri.md)
 
 4. [Test Senaryosu & Test Durumu - Test Scenarios & Test Cases](https://github.com/theharuun/TestEngineering/blob/main/4-%20Test%20Senaryosu%20&%20Test%20Durumu%20-%20Test%20Scenarios%20&%20Test%20Cases.md)
+
+5. [DevSecOps](https://github.com/theharuun/TestEngineering/blob/main/5-%20DevSecOps.md)
