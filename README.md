@@ -11,3 +11,5 @@
 4. [Test Senaryosu & Test Durumu - Test Scenarios & Test Cases](https://github.com/theharuun/TestEngineering/blob/main/4-%20Test%20Senaryosu%20&%20Test%20Durumu%20-%20Test%20Scenarios%20&%20Test%20Cases.md)
 
 5. [DevSecOps](https://github.com/theharuun/TestEngineering/blob/main/5-%20DevSecOps.md)
+
+6. [CloudTest](https://github.com/theharuun/TestEngineering/blob/main/6-%20CloudTest.md)
