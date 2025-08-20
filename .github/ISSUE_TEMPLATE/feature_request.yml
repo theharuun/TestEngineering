@@ -1,0 +1,50 @@
+name: "✨ Feature Request / Requirement"
+description: "Yeni bir özellik veya gereksinim eklemek için bu şablonu kullanın."
+title: "[FEATURE] <Kısa ve net başlık yazın>"
+labels: ["enhancement"]
+assignees:
+  - theharuun
+
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary (Özet)
+      description: "Eklenmesini istediğiniz özelliği kısaca açıklayın."
+      placeholder: "Login ekranına 'Şifremi Unuttum' butonu eklenmeli."
+    validations:
+      required: true
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Motivation (Motivasyon)
+      description: "Bu özelliğin neden gerekli olduğunu açıklayın."
+      placeholder: "Kullanıcılar şifrelerini unuttuğunda giriş yapamıyor, bu yüzden resetleme gerekli."
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed Solution (Önerilen Çözüm)
+      description: "Özelliğin nasıl uygulanabileceğini açıklayın."
+      placeholder: "Login ekranına 'Şifremi Unuttum' linki eklenir, backend’de reset mail gönderilir."
+    validations:
+      required: false
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives (Alternatif Çözümler)
+      description: "Düşündüğünüz başka çözümleri yazın."
+      placeholder: "Mobil uygulama üzerinden resetleme."
+    validations:
+      required: false
+
+  - type: textarea
+    id: attachments
+    attributes:
+      label: Attachments (Ekler)
+      description: "Ekran görüntüsü, mockup veya döküman ekleyin."
+      placeholder: "- Mockup\n- Döküman linki"
