@@ -1,4 +1,4 @@
-name: "📝 Task / Improvement"
+name: "Task / Improvement"
 description: "Yapılacak işler veya mevcut bir şeyin geliştirilmesi için bu şablonu kullanın."
 title: "[TASK] <Kısa ve net başlık yazın>"
 labels: ["task"]
