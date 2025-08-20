@@ -13,3 +13,5 @@
 5. [DevSecOps](https://github.com/theharuun/TestEngineering/blob/main/5-%20DevSecOps.md)
 
 6. [CloudTest](https://github.com/theharuun/TestEngineering/blob/main/6-%20CloudTest.md)
+
+7. [7- CloudDevOps](https://github.com/theharuun/TestEngineering/blob/main/7-%20CloudDevOps.md)
