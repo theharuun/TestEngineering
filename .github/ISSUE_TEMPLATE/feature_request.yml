@@ -1,4 +1,4 @@
-name: "✨ Feature Request / Requirement"
+name: "Feature Request / Requirement"
 description: "Yeni bir özellik veya gereksinim eklemek için bu şablonu kullanın."
 title: "[FEATURE] <Kısa ve net başlık yazın>"
 labels: ["enhancement"]
