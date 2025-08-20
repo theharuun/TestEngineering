@@ -1,0 +1,87 @@
+name: "🐞 Bug Report"
+description: "Sistemde bulduğunuz hataları raporlamak için bu şablonu kullanın."
+title: "[BUG] <Kısa ve net başlık yazın>"
+labels: ["bug"]
+assignees:
+  - theharuun
+
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description (Açıklama)
+      description: "Hatanın detaylı açıklamasını yazınız."
+      placeholder: "Login ekranında doğru bilgiler girildiğinde login butonu çalışmıyor."
+    validations:
+      required: true
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment (Ortam)
+      description: "Hatanın görüldüğü ortam bilgileri."
+      placeholder: |
+        - Tarayıcı: Chrome 124.0
+        - İşletim Sistemi: Windows 11
+        - Test Ortamı: Dev / SIT
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce (Adımlar)
+      description: "Hatayı tekrar üretmek için gereken adımlar."
+      placeholder: |
+        1. Uygulamaya giriş yap.
+        2. Doğru kullanıcı adı ve şifre gir.
+        3. Login butonuna tıkla.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Result (Beklenen Sonuç)
+      description: "Beklenen davranışı yazınız."
+      placeholder: "Kullanıcı ana sayfaya yönlendirilmelidir."
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual Result (Gerçekleşen Sonuç)
+      description: "Gerçekleşen hatalı sonucu yazınız."
+      placeholder: "Navigation gerçekleşmiyor, textbox alanları temizleniyor."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority (Öncelik)
+      options:
+        - High
+        - Medium
+        - Low
+    validations:
+      required: true
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity (Kritiklik)
+      options:
+        - Critical
+        - Major
+        - Minor
+    validations:
+      required: true
+
+  - type: textarea
+    id: attachments
+    attributes:
+      label: Attachments (Ekler)
+      description: "Ekran görüntüsü, hata logu vb. ekleyin."
+      placeholder: "- Screenshot\n- Hata logları"
