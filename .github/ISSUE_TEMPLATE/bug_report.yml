@@ -1,4 +1,4 @@
-name: "🐞 Bug Report"
+name: "Bug Report"
 description: "Sistemde bulduğunuz hataları raporlamak için bu şablonu kullanın."
 title: "[BUG] <Kısa ve net başlık yazın>"
 labels: ["bug"]
