@@ -1,0 +1,46 @@
+name: "📝 Task / Improvement"
+description: "Yapılacak işler veya mevcut bir şeyin geliştirilmesi için bu şablonu kullanın."
+title: "[TASK] <Kısa ve net başlık yazın>"
+labels: ["task"]
+assignees:
+  - theharuun
+
+body:
+  - type: textarea
+    id: objective
+    attributes:
+      label: Objective (Amaç)
+      description: "Görevin ne olduğunu açıklayın."
+      placeholder: "Login ekranındaki butonun UI tasarımını güncelle."
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps (Adımlar)
+      description: "Görev için yapılacak işleri listeleyin."
+      placeholder: |
+        - Login butonu renklerini güncelle
+        - Hover efektini ekle
+        - Responsive görünümü kontrol et
+    validations:
+      required: false
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority (Öncelik)
+      options:
+        - High
+        - Medium
+        - Low
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes (Notlar)
+      description: "Ekstra açıklamalarınızı yazın."
+      placeholder: "Bu görev UI/UX ekibi ile birlikte değerlendirilmeli."
