@@ -16,4 +16,4 @@
 
 7. [7- CloudDevOps](https://github.com/theharuun/TestEngineering/blob/main/7-%20CloudDevOps.md)
 
-8. [8- Web Service & Postman](https://github.com/TestEngineering/blob/main/8-%20Web%20Service%20&%20Postman.md)
+8. [8- Web Service & Postman](https://github.com/theharuun/TestEngineering/blob/main/8-%20Web%20Service%20&26%20Postman.md)
