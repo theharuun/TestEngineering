@@ -14,10 +14,10 @@
 
 6. [CloudTest](https://github.com/theharuun/TestEngineering/blob/main/6-%20CloudTest.md)
 
-7. [7- CloudDevOps](https://github.com/theharuun/TestEngineering/blob/main/7-%20CloudDevOps.md)
+7. [CloudDevOps](https://github.com/theharuun/TestEngineering/blob/main/7-%20CloudDevOps.md)
 
-8. [8- Web Service & Postman](https://github.com/theharuun/TestEngineering/blob/main/8-%20Web%20Service%20&26%20Postman.md)
+8. [Web Service & Postman](https://github.com/theharuun/TestEngineering/blob/main/8-%20Web%20Service%20&26%20Postman.md)
 
-9. [9- SQL & Linux Öğrenme Notları](https://github.com/theharuun/TestEngineering/blob/main/9-%20SQL%20%26%20Linux%20Öğrenme%20Notları.md)
+9. [SQL & Linux Öğrenme Notları](https://github.com/theharuun/TestEngineering/blob/main/9-%20SQL%20%26%20Linux%20Öğrenme%20Notları.md)
 
-10. [10- Performance Testing & CPTS](https://github.com/theharuun/TestEngineering/blob/main/10-%20Performance%20Testing%20%26%20CPTS.md)
+10. [Performance Testing & CPTS](https://github.com/theharuun/TestEngineering/blob/main/10-%20Performance%20Testing%20%26%20CPTS.md)
