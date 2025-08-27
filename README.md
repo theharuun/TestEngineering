@@ -21,3 +21,5 @@
 9. [SQL & Linux Öğrenme Notları](https://github.com/theharuun/TestEngineering/blob/main/9-%20SQL%20%26%20Linux%20Öğrenme%20Notları.md)
 
 10. [Performance Testing & CPTS](https://github.com/theharuun/TestEngineering/blob/main/10-%20Performance%20Testing%20%26%20CPTS.md)
+
+11. [Apache JMeter Öğrenme](https://github.com/theharuun/TestEngineering/blob/main/11-%20Apache%20JMeter%20Öğrenme.md)
