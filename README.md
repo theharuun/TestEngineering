@@ -25,3 +25,5 @@
 11. [Apache JMeter Öğrenme](https://github.com/theharuun/TestEngineering/blob/main/11-%20Apache%20JMeter%20Öğrenme.md)
 
 12. [12- GUI Otomasyonunu Öğrenme](https://github.com/theharuun/TestEngineering/blob/main/12-%20GUI%20Otomasyonunu%20Öğrenme.md)
+
+13. [13- API Otomasyonunu Öğrenme](https://github.com/theharuun/TestEngineering/blob/main/13-%20API%20Otomasyonunu%20Öğrenme.md)
